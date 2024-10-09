@@ -7,7 +7,7 @@ This repository contains code and resources for an image classifier project. The
 - [Project Overview](#project-overview)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Deployment](#deployment)
+
 
 ## Project Overview
 
@@ -43,7 +43,4 @@ Once the application is running, follow these steps:
    ![image](https://github.com/user-attachments/assets/d7f9144f-044a-4713-a580-663b82d36688)
 
 
-## Deployment
-The image classifier application is also deployed online. You can access it through the following link:
 
-https://huggingface.co/spaces/Bhogi/AI_IMAGE_CLASSIFIER
